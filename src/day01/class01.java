@@ -7,6 +7,7 @@ public class class01 {
         System.out.println("talha deneme");
       System.out.println("biz bu işi çözdük");
         System.out.println("neden olmadın");
+        System.out.println("push olacak mı?");
 
     }
 }
