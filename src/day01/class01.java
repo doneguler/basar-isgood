@@ -5,6 +5,8 @@ public class class01 {
         System.out.println("never give up");
         System.out.println("done işe başladı");
         System.out.println("talha deneme");
+      System.out.println("biz bu işi çözdük");
+        System.out.println("neden olmadın");
 
     }
 }
